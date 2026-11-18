@@ -4,7 +4,7 @@ Dashboard de acompanhamento comercial que compara **vendas realizadas x meta** p
 
 > ⚠️ Projeto de portfólio com **dados fictícios**.
 
-![Visão geral do dashboard](imagens/dashboard_visao_geral.png)
+![Visão geral do dashboard](imagens/dashboard_visao_geral.PNG)
 
 ---
 
@@ -44,7 +44,7 @@ O dashboard foi desenhado para responder, em poucos segundos:
 - **Filtro cruzado:** clicar em uma região, mês ou distribuidor atualiza o painel inteiro.
 - O ranking de distribuidores críticos e o eixo do gráfico mensal **se recalculam** conforme o filtro.
 
-![Dashboard filtrado pela região Nordeste](imagens/dashboard_nordeste.png)
+![Dashboard filtrado pela região Nordeste](imagens/dashboard_nordeste.PNG)
 
 ---
 
@@ -60,7 +60,7 @@ O dashboard foi desenhado para responder, em poucos segundos:
 - Tabela calendário criada em DAX, dinâmica e marcada como tabela de datas.
 - Medidas centralizadas em uma tabela dedicada (`_Medidas`).
 
-![Modelo de dados](imagens/modelo_de_dados.png)
+![Modelo de dados](imagens/modelo_de_dados.PNG)
 
 ### DAX
 13 medidas, entre elas:
